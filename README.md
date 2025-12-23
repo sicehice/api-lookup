@@ -1,7 +1,7 @@
 # api-lookup
 API lookup script for sicehice.com
 
-You can register for an account an receive an API key for free at https://sicehice.com/register
+You can register for an account and receive an API key for free at https://sicehice.com/register
 
 ## Usage
 
