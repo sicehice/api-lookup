@@ -11,7 +11,7 @@ Install required dependencies:
 
 Run the script:
 
-```python3 sicehice-api-lookup.py -i ips.txt -k <api_key>```
+```python3 sicehice-api-lookup.py -i <ip_addresses.txt> -k <api_key>```
 
 
 ## Example Output
