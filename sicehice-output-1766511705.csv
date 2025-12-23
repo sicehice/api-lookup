@@ -1,0 +1,11 @@
+IP,Country,Org,ASN,Sources,Tags
+185.100.87.166,Romania,FlokiNET ehf,200651,"TOR Project, Net.UA, NUBI, BlockList.de, Rutgers DROP, Binary Defense, GreenSnow, Proxy Egress, Malcore, Sblam!","blocklist, proxy, osint, tor, bruteforce, anonymous, honeypot_detection"
+146.190.40.2,United States,DIGITALOCEAN-ASN,14061,"Binary Defense, AbuseIPDB, Sicehice Honeypot","blocklist, osint, CVE-2021-44228, bruteforce, CVE-2022-1388, honeypot_detection"
+34.112.62.27,United States,GOOGLE,15169,No Results Found,No Results Found
+154.213.190.250,Japan,ZILLION-NETWORK,54801,"Turris Greylist, Net.UA, Inquest, Sicehice Honeypot, AlienVault OTX, NUBI, Sicehice Malware Labs","blocklist, osint, mirai, bruteforce, malware, CVE-2023-1389, honeypot_detection"
+52.116.83.184,United States,SOFTLAYER,36351,No Results Found,No Results Found
+152.32.170.129,Hong Kong,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,135377,"Abuse.ch, Sicehice Malware Labs","malware, malware_download, osint, cobaltstrike"
+91.215.85.61,Russia,Prospero Ooo,200593,"AbuseIPDB, Turris Greylist, Inquest, Sicehice Honeypot, Sicehice Malware Labs, NUBI","blocklist, osint, bruteforce, CVE-2023-27997, malware, CVE-2023-27997 , honeypot_detection"
+3.106.243.140,Australia,AMAZON-02,16509,Abuse.ch,"malware, netsupportmanager, C2, osint"
+45.86.155.252,Germany,Florian Kolb,58087,"Abuse.ch, CINS Army List, AlienVault OTX, NUBI","blocklist, osint, mirai, C2, malware"
+162.215.171.183,United States,UNIFIEDLAYER-AS-1,46606,Proxy Ingress,"proxy, anonymous, osint"
